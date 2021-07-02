@@ -21,7 +21,6 @@ setup(
 
     install_requires=[
         'wagtail>=2.7',
-        'django-mjml',
     ],
     setup_requires=[
         'wheel'
